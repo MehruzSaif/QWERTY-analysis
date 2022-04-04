@@ -1,0 +1,11 @@
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.custom-link {
+    margin-left: 50px;
+    font-weight: 700;
+    font-size: 17px;
+}
