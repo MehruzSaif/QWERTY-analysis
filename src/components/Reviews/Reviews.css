@@ -4,3 +4,10 @@
     gap: 45px;
     margin: 80px 50px;
 }
+
+@media screen and (max-width: 688px) {
+
+    .reviews-container {
+        grid-template-columns: 1fr;
+    }
+}

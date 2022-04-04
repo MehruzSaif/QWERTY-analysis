@@ -10,7 +10,7 @@ const Home = () => {
                 <div className="written-container">
                     <h1>Your next <span>CONSOLE</span></h1>
                     <h1>Your best <span>QWERTY</span></h1>
-                    <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur similique officia quis quasi minima, odit, hic adipisci veritatis delectus eius ullam tempora asperiores, totam pariatur perspiciatis inventore. Illum, dolor non!</h5>
+                    <h5>For mechanical keyboards lovers, by mechanical keyboards lovers. Customize your keyboard to create your perfect aesthetic with an exciting suite of accessories in bold new colorways, including swappable top frames, rotary knobs, keycap sets, and coiled cables!</h5>
 
                     <button className='home-btn'>Live Demo</button>
                 </div>
