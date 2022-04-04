@@ -21,8 +21,14 @@
     text-align: justify;
 }
 
-.written-container span {
+.console {
     background: linear-gradient(to right, #eb1c1c, #daba05);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.qwerty {
+    background: linear-gradient(to right, #328b05, #F84F38);
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
