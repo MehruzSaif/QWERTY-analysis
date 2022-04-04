@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Raihan Rahman",
+    "review": "Bought as a gift, was very well received! It would be incredibly though, if there were keys to change the layout to qwertz or whatever one needs. Thanks anyways, its a great product that feels very well crafted.",
+    "img": "https://www.hakuhodo-global.com/wp_admin/wp-content/uploads/2017/11/Kazuhiro_Suda2square.jpg",
+    "rating": 5
+  },
+  {
+    "id": "1",
+    "name": "Mehruz Saif",
+    "review": "This is my first mechanical keyboard and I absolutely love it! I found YouTube reviews of it and it sounds amazing even without modding. great design as well.",
+    "img": "https://cdn.pixabay.com/photo/2014/07/09/10/04/man-388104_960_720.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "1",
+    "name": "Sadique Kakku",
+    "review": "It is excellent! High quality material, and a wonderful typing experience. The backlight could be transparent through the letters... but that's a minor issue. Really, this keyboard is perfect!",
+    "img": "https://miro.medium.com/max/800/1*7hkI-ZKsglnbjxCRV1bMZA.png",
+    "rating": 4.7
+  },
+  {
+    "id": "1",
+    "name": "Manaul Islam",
+    "review": "I really like the theme of the astronaut and space. Typing is really enjoyable and I really like the switches I chose for this keyboard. Overall a really good keyboard!",
+    "img": "https://www.hakuhodo-global.com/wp_admin/wp-content/uploads/2018/01/R.E.Budiastuti_Squareedited.jpg",
+    "rating": 5
+  },
+  {
+    "id": "1",
+    "name": "Vodro Zarif",
+    "review": "Very nice customer support replies fast and very informative. Keyboard is very good, only negative I could find was that it is very hard to open the board.",
+    "img": "https://focusforensics.com/wp-content/uploads/staff-clayton_mccall-square.jpg",
+    "rating": 5
+  },
+  {
+    "id": "1",
+    "name": "Navid Al Kakku",
+    "review": "Amazing Keyboard! I took it to work and showed some of my friends and they are determined to buy one! I got the gold pink switches and they are so smooth! Dang this thing is amazing.",
+    "img": "https://images.squarespace-cdn.com/content/v1/5d0a5fa500e9670001af4c0c/1574434573756-2FHX0HTAVCMXCXSE3XT6/Maryam%2BProfile.jpg?format=1000w",
+    "rating": 4.9
+  }
+]
