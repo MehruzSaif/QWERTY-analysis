@@ -35,14 +35,19 @@
 
 .home-btn {
     margin-top: 25px;
-    margin-right: 520px;
+    margin-right: 508px;
     padding: 20px 40px;
     border: none;
     color: rgb(26, 70, 230);
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 700;
     border-radius: 10px;
     background-color: rgb(204, 211, 218);
+}
+
+.home-btn:hover {
+    background-image: linear-gradient(to right, #3437cc, #23dff0);
+    color: white;
 }
 
 .img-container img {
