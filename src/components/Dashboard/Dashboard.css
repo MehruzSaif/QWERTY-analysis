@@ -1,0 +1,12 @@
+.chart-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 70px;
+}
+
+@media screen and (max-width: 688px) {
+
+    .chart-container {
+        grid-template-columns: 1fr;
+    }
+}

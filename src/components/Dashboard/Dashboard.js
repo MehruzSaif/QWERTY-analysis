@@ -1,5 +1,6 @@
 import React from 'react';
 import { Bar, BarChart, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import './Dashboard.css';
 
 const Dashboard = () => {
     const data = [
@@ -42,7 +43,7 @@ const Dashboard = () => {
     ]
 
     return (
-        <div className='container mt-5'>
+        <div className='container mt-5 d-flex chart-container'>
             <LineChart width={600} height={400} data={data}>
                 <Line dataKey={'revenue'}></Line>
                 <Line dataKey={'investment'}></Line>
@@ -51,7 +52,7 @@ const Dashboard = () => {
                 <YAxis></YAxis>
             </LineChart>
 
-            <BarChart width={600} height={400} data={data} className='my-5'>
+            <BarChart width={600} height={400} data={data}>
                 <Bar dataKey={'revenue'} fill="orange"></Bar>
                 <Bar dataKey={'investment'} fill="#4280be"></Bar>
                 <XAxis dataKey="month"></XAxis>
