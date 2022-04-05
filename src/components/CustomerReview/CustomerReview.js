@@ -12,10 +12,10 @@ const CustomerReview = () => {
     const navigate = useNavigate();
 
     return (
-        <div>
+        <div className='container'>
             <h1><b>Customer Reviews(3)</b></h1>
 
-            <div className='three-customer-review container'>
+            <div className='three-customer-review'>
                 {
                     reviewData.map(review => <Review
                         key={review.id}
